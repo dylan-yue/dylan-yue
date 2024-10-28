@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+The site is under construction, please check back, or check my [LinkedIn profile](https://www.linkedin.com/in/dylan-yue/).
+
 <!--
 **dylan-yue/dylan-yue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
